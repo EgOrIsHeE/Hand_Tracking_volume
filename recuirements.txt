@@ -1,5 +1,5 @@
-pip install cv2
-pip install numpy
-pip install ctypes 
-pip install comtypes
-pip install pycaw
+cv2
+numpy
+ctypes 
+comtypes
+pycaw
